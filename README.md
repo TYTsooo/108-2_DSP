@@ -2,8 +2,8 @@
 ## B0744144 左庭瑀
 ## Course link: 
 * renyuanL : [_ryDsp2020](https://github.com/renyuanL/_ryDsp2020)
-* Allen Downey : [AllenDowney_ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
-* Ebook :[ThinkDSP.pdf](https://github.com/TYTsooo/DSP/blob/master/thinkdsp.pdf)
+* Allen Downey : [AD_ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
+* Ebook : [ThinkDSP.pdf](https://github.com/TYTsooo/DSP/blob/master/thinkdsp.pdf)
 * 中文 : [超譯DSP](http://timag-shield.blogspot.com/)
 ## Course
 ### Chap01
