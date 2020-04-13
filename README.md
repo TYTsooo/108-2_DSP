@@ -8,7 +8,7 @@
 ## Course
 ### Chap01
 * Handout: [chap01_ry.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/chap01_ry.ipynb)
-* Exercise: [HW01]()
+* Exercise: [HW01](https://github.com/TYTsooo/DSP/blob/master/Ch01/Hw01.ipynb)
 ### Chap02
 * Handout: [ch02.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch02.ipynb)
 * Exersise: [HW02]()
