@@ -3,7 +3,7 @@
 ## Course link: 
 * renyuanL : [_ryDsp2020](https://github.com/renyuanL/_ryDsp2020)
 * Allen Downey : [AllenDowney_ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
-* Ebook :[]()
+* Ebook :[ThinkDSP.pdf](https://github.com/TYTsooo/DSP/blob/master/thinkdsp.pdf)
 * 中文 : [超譯DSP](http://timag-shield.blogspot.com/)
 ## Course
 ### Chap01
