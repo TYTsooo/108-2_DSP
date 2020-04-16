@@ -4,7 +4,7 @@
 * renyuanL : [_ryDsp2020](https://github.com/renyuanL/_ryDsp2020)
 * Allen Downey : [AD_ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
 * Ebook : [ThinkDSP.pdf](https://github.com/TYTsooo/DSP/blob/master/thinkdsp.pdf)
-* 中文 : [超譯DSP](http://timag-shield.blogspot.com/)
+* Chinese : [超譯DSP](http://timag-shield.blogspot.com/)
 ## Course
 ### Chap01
 * Handout: [chap01_ry.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/chap01_ry.ipynb)
@@ -12,3 +12,6 @@
 ### Chap02
 * Handout: [ch02.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch02.ipynb)
 * Exersise: [HW02]()
+### Chap03
+* Handout: [ch03.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/chap03.ipynb)
+* Exersise: [HW03]()
