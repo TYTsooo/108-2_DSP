@@ -15,3 +15,5 @@
 ### Chap03
 * Handout: [ch03.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/chap03.ipynb)
 * Exersise: [HW03]()
+## Test
+* 0417 : [Test01](https://github.com/TYTsooo/108-2_DSP/blob/master/Test/0417_DSPTest.ipynb)
