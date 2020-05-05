@@ -23,4 +23,4 @@
 * Exercise: [HW04]()
 ## Test
 * 0417 : [Test01](https://github.com/TYTsooo/108-2_DSP/blob/master/Test/0417_DSPTest.ipynb)
-* 0505 : [Midterm]()
+* 0505 : [Midterm](https://github.com/TYTsooo/108-2_DSP/blob/master/Test/Midterm_B0744144.ipynb)
