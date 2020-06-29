@@ -20,7 +20,22 @@
 * Exercise: [HW04]()
 ### Chap05
 * Handout: [ch05.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch05.ipynb)
-* Exercise: [HW04]()
+* Exercise: [HW05]()
+### Chap06
+* Handout: [ch05.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch06.ipynb)
+* Exercise: [HW06]()
+### Chap07
+* Handout: [ch05.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch07.ipynb)
+* Exercise: [HW07]()
+### Chap08
+* Handout: [ch05.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch08.ipynb)
+* Exercise: [HW08]()
+### Chap09
+* Handout: [ch05.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch09.ipynb)
+* Exercise: [HW09]()
+### Chap10
+* Handout: [ch05.ipynb](https://github.com/renyuanL/_ryDsp2020/blob/master/code/ch10.ipynb)
+* Exercise: [HW10]()
 ## Test
 * 0417 : [Test01](https://github.com/TYTsooo/108-2_DSP/blob/master/Test/0417_DSPTest.ipynb)
 * 0505 : [Midterm](https://github.com/TYTsooo/108-2_DSP/blob/master/Test/Midterm_B0744144.ipynb)
